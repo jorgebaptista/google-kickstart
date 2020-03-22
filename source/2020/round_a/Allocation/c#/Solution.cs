@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace c_
+namespace Allocation
 {
-    class Program
+    class Solution
     {
         static int Main(string[] args)
         {
